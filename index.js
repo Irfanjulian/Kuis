@@ -12,8 +12,8 @@ const findShoes = ( shoesSize ) =>{
         
       }
     }
-    // console.log(`Available Size = ${duplicates.length}`)
-    console.log(duplicates.length);
+    console.log(`Available Size = ${duplicates.length}`)
+    //     console.log(duplicates.length);
 }
 
 findShoes(shoesSize)
